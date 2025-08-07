@@ -1,8 +1,14 @@
 # Terraform Provider Omni (using Terraform Plugin Framework)
 
+## WARNING
+
+This provider is unofficial and has been coded as a test. Use it as you wish and with your responsability.
+
+Sorry for the French in some comments. :-)
+
+
 ## Prérequisites
 - `go` version 1.23+
-- `aws-cli` version 2.13+
 - `goreleaser` version 2.3.2+
 
 _This template repository is built on the [Terraform Plugin Framework](https://github.com/hashicorp/terraform-plugin-framework). The template repository built on the [Terraform Plugin SDK](https://github.com/hashicorp/terraform-plugin-sdk) can be found at [terraform-provider-scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding). See [Which SDK Should I Use?](https://developer.hashicorp.com/terraform/plugin/framework-benefits) in the Terraform documentation for additional information._
